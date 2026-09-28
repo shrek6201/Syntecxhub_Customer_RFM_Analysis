@@ -57,7 +57,7 @@ Syntecxhub_Customer_RFM_Analysis/
 ├── metric calculation/
 │   └── rfm_analysis.py
 ├── Syntecxhub_Customer_Segmentation_and_Retention_Insights.pbix
-├── Syntecxhub_Customer_Segmentation_and_Retention_Insights.pdf
+├── Customer_RFM_Analysis_Exported.pdf
 ├── data/
 │   ├── Online Retail.xlsx
 │   ├── rfm_customer_level.csv
