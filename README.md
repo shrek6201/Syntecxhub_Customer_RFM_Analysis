@@ -56,7 +56,7 @@ A single executive page: KPI cards (Total Customers, Total Revenue, Avg Recency,
 Syntecxhub_Customer_RFM_Analysis/
 ├── metric calculation/
 │   └── rfm_analysis.py
-├── Syntecxhub_Customer_Segmentation_and_Retention_Insights.pbix
+├── Syntecxhub_Customer_RFM_Analysis.pbix
 ├── Customer_RFM_Analysis_Exported.pdf
 ├── data/
 │   ├── Online Retail.xlsx
